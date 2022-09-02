@@ -1,8 +1,10 @@
 # Project Name: 
 
+Algorithm's Runtime Comparison
+
 ## Purpose
 
-
+This project aims to make arrays of sizes 10,..., and 1M, consisting of random values using a random number generator. Then sort, using different sorting algorithms and get the compiler time, compare it with their theoretical runtime.
 ## Approach
 
 The main part of this project was to get the compiler time of the sorting algorithms.
@@ -33,6 +35,7 @@ as expected.
 ## Images
 
 ![image](https://user-images.githubusercontent.com/74393846/188054392-709c1e1a-6aae-48e0-a3be-c1539b9d2dd7.png)
+
 ![image](https://user-images.githubusercontent.com/74393846/188054433-907677bc-299b-4715-a566-1678e7011cdc.png)
 
 ## Data Table
