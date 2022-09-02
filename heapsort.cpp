@@ -9,7 +9,7 @@ int *getRandom(int A[], int n)
 {
     // range of random numbers
     int range_from = 0;
-    int range_to = 50000;
+    int range_to = 500000;
 
     random_device rand_dev;
     mt19937 generator(rand_dev());
