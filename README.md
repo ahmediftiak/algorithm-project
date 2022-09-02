@@ -32,7 +32,12 @@ as expected.
 
 ## Images
 
+![image](https://user-images.githubusercontent.com/74393846/188054392-709c1e1a-6aae-48e0-a3be-c1539b9d2dd7.png)
+![image](https://user-images.githubusercontent.com/74393846/188054433-907677bc-299b-4715-a566-1678e7011cdc.png)
+
 ## Data Table
+
+![image](https://user-images.githubusercontent.com/74393846/188054473-7c4c8e5e-077e-4380-883a-6d65a61a015e.png)
 
 ## Conclusion
 
