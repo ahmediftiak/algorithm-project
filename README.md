@@ -1,6 +1,4 @@
-# Project Name: 
-
-Algorithm's Runtime Comparison
+# Project Name: Algorithm's Runtime Comparison
 
 ## Purpose
 
